@@ -159,3 +159,6 @@ Seluruh kode ada di satu file, `MainActivity.kt`.
 | `EnvironmentSensorScreen` | Tampilan utama: langit dan jam di atas, kompas di bawah |
 | `CompassDial` | Piringan kompas yang berputar |
 | `drawCloud` | Fungsi gambar awan |
+
+Video Demo Singkat
+https://drive.google.com/drive/folders/1rMHsGhw_pCWniSnY7b4loQOOSzyu4jm4?usp=sharing
